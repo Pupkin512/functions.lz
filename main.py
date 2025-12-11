@@ -2,7 +2,8 @@
     import is_even
     import is_prime
     import temperature
- def main():
+
+    def main():
         circle.main()  
         is_even.main()
         is_prime.main()
